@@ -25,11 +25,9 @@ Senha: Teste@123<br>
 - Ao realizar o cadastro de um novo usuario do sistema, irar chegar um email para o usuario confirar o seu cadastro no sistema, tambem se aplica para o cadastro de professores e alunos.
 
 
-## Requisitos do projeto
-<p align="justify">Para executar a aplicação, deve ter os seguintes softwares instalados:</p>
-
+## Ferramentas
+<p align="justify">Ferramentas utilizadas para desenvolvimento:</p>
 <ul>
-
 <li>YARN ou NPM instalados </li>
 
 ```bash
