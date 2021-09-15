@@ -10,14 +10,14 @@ Senha: Teste@123<br>
 
 ### Funções:
 
-- Cadastro:
-    Cargos;
-    Cursos;
-    Ano Letivo;
-    Disciplinas;
-    Funcionarios;
-    Professores;
-    Alunos;
+- Cadastro:<br>
+    Cargos;<br>
+    Cursos;<br>
+    Ano Letivo;<br>
+    Disciplinas;<br>
+    Funcionarios;<br>
+    Professores;<br>
+    Alunos;<br>
 
 - Todos os topicos do cadastro é possivel realizar a edição e visualização dos dados.
 - Em funcionarios é possivel realizar o cadastro do funcionario que acessa ou não o sistema, esta situação é definida sendo possivel realizar o cadastro usuario para acesso ao sistema.
