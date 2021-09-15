@@ -30,6 +30,7 @@ Senha: Teste@123<br>
 <ul>
 <li>Java 8</li>
 <li>Java Web</li>
+<li>Bootstrap</li>
 <li>NetBeans IDE</li>
 <li>Architect - Para modelagem do banco de dados</li>
 <li>Banco de dados: PostgreSQL 13</li>
