@@ -25,7 +25,7 @@ Senha: Teste@123<br>
 - Ao realizar o cadastro de um novo usuario do sistema, irar chegar um email para o usuario confirar o seu cadastro no sistema, tambem se aplica para o cadastro de professores e alunos.
 
 
-## Ferramentas
+## Ferramentas:
 <p align="justify">Ferramentas utilizadas para desenvolvimento:</p>
 <ul>
 <li>Java 8</li>
