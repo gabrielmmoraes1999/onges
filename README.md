@@ -28,16 +28,8 @@ Senha: Teste@123<br>
 ## Ferramentas
 <p align="justify">Ferramentas utilizadas para desenvolvimento:</p>
 <ul>
-<li>YARN ou NPM instalados </li>
-
-```bash
-Yarn na versão 1.17.3 ou mais recente.
-               ou
-NPM na versão 6.12.0 ou mais recente.
-```
-
-<li>MongoDB instalado</li>
-
-```bash
-Sugestão: Tenha o MongoDB Compass instalado, pois ajuda a gerenciar o banco de dados.
-```
+<li>Java 8</li>
+<li>Java Web</li>
+<li>NetBeans IDE</li>
+<li>Architect - Para modelagem do banco de dados</li>
+<li>Banco de dados: PostgreSQL 13</li>
