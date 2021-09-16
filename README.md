@@ -25,7 +25,7 @@ Senha: Teste@123<br>
 - Ao realizar o cadastro de um novo usuario do sistema, irar chegar um email para o usuario confirar o seu cadastro no sistema, tambem se aplica para o cadastro de professores e alunos.
 - E muito mais...
 
-## Portal do Professor e Aluno (Em desenvolvimento)!
+### Portal do Professor e Aluno (Em desenvolvimento)!
 
 
 ## Ferramentas:
