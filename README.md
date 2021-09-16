@@ -37,11 +37,20 @@ Senha: Teste@123<br>
 
 # Telas do sistema:
     
-## Tela inicial.
+## Tela inicial
 ![](./assets/img/icons/start.png)
     
-## Tela login.
+## Tela login
 ![](./assets/img/icons/login.png)
 
-## Dashboard.
+## Dashboard
 ![](./assets/img/icons/dashboard.png)
+    
+## Lista de funcionario
+![](./assets/img/icons/funcionary.png)
+    
+## Cadastrar funcionario
+![](./assets/img/icons/funcionary_c.png)
+    
+## Visualizar dados os Funcionarios
+![](./assets/img/icons/funcionary_c.png)
