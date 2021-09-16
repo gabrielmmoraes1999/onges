@@ -23,6 +23,9 @@ Senha: Teste@123<br>
 - Em funcionarios é possivel realizar o cadastro do funcionario que acessa ou não o sistema, esta situação é definida sendo possivel realizar o cadastro usuario para acesso ao sistema.
 - Em cargos é possivel definir o que o funcionario vai poder acessar no sistema.
 - Ao realizar o cadastro de um novo usuario do sistema, irar chegar um email para o usuario confirar o seu cadastro no sistema, tambem se aplica para o cadastro de professores e alunos.
+- E muito mais...
+
+## Portal do Professor e Aluno (Em desenvolvimento)!
 
 
 ## Ferramentas:
