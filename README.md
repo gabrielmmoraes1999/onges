@@ -35,8 +35,7 @@ Senha: Teste@123<br>
 <li>Architect - Para modelagem do banco de dados</li>
 <li>Banco de dados: PostgreSQL 13</li>
 
-# Capturas de Tela da Aplicação
+# Telas do sistema:
 
 ## Tela inicial.
-
 ![](./assets/img/icons/dashboard.png)
