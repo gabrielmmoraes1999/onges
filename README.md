@@ -54,3 +54,6 @@ Senha: Teste@123<br>
     
 ## Visualizar dados os Funcionarios
 ![](./assets/img/icons/funcionary_c.png)
+    
+## Tela de Email Redefinição de Senha
+![](./assets/img/icons/IMG_0175.PNG)
