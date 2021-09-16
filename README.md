@@ -36,6 +36,12 @@ Senha: Teste@123<br>
 <li>Banco de dados: PostgreSQL 13</li>
 
 # Telas do sistema:
-
+    
 ## Tela inicial.
+![](./assets/img/icons/start.png)
+    
+## Tela login.
+![](./assets/img/icons/login.png)
+
+## Dashboard.
 ![](./assets/img/icons/dashboard.png)
